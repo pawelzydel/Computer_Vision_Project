@@ -1,3 +1,3 @@
-# ComputerVision project
+# Computer Vision project
 
-Celem projektu jest stworzenie modelu sieci neuronowej, która będzie klasyfikować obrazy związane z uśmiechem. Model jest trenowany na danych treningowych, a następnie oceniany na danych testowych. Wykorzystuję tu techniki przetwarzania obrazów, takie jak normalizacja i warstwy konwolucyjne, aby nauczyć model rozpoznawania wzorców związanych z uśmiechem. Na końcu projekt skupia się na wizualizacji wyników treningu za pomocą wykresów dokładności i straty.
+The aim of this project is to create a neural network model that classifies images related to smiles. A dataset containing celebrity images is used for training and testing. Image processing techniques such as normalization and convolutional layers are employed to train the model to recognize smile-related patterns. The project concludes by focusing on visualizing the training results using accuracy and loss curves.
